@@ -4,7 +4,7 @@ Este repositório é dedicado ao conteúdo do **Estágio iStudio Data & Analytic
 
 ## Sprint 1
 
-Ferramentas de versionamento de código são essenciais para o sucesso de projetos que envolvem código. Atualmente o *Git* é padrão de mercado, sendo amplamente utilizado em projetos de dados. Não menos importantes são os sistemas operacionais baseados em *Linux*, cujo conhecimento dos princípios básicos de operação e comandos de terminal mais comuns são necessários a qualquer profissional da área de Data & Analytics.
+Ferramentas de versionamento de código são essenciais para o sucesso de projetos que envolvem código. Atualmente o *Git* é padrão de mercado, sendo amplamente utilizado em projetos de dados. Não menos importantes são os sistemas operacionais baseados em *Linux*, cujo conhecimento dos princípios básicos de operação e comandos de terminal mais comuns são necessários a qualquer profissional da área de _Data & Analytics_.
 
 ### Git e GitHub do básico ao avançado (c/ gist e GitHub Pages)
 
