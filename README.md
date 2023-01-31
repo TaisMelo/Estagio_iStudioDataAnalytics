@@ -33,3 +33,6 @@ _Git e GitHub_ do básico ao avançado, uma abordagem prática para o controle d
 Conceitos e comandos **_GNU/Linux_: Começando pelo "ls" e explorando até ao Shell Script e Expressões Regulares, na prática!**
 
 
+## Conheça a Compass.uol
+
+[Compass.UOL](https://compass.uol/pt/home)
