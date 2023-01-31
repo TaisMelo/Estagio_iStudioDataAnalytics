@@ -1,3 +1,5 @@
+![Logo Compass.UOL](img/compassUOL-logo.png)
+
 # Compass UOL - Estagio_iStudioDataAnalytics
 
 Este repositório é dedicado ao conteúdo do **Estágio iStudio Data & Analytics**, feito através da _Compass.UOL_.
